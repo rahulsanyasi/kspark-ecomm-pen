@@ -6,3 +6,4 @@ class Laptop(BaseModel):
     make: str
     type: str
     cost: float
+    print(f"class|")
