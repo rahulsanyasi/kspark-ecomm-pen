@@ -162,3 +162,8 @@ cython_debug/
 *.vscode/
 .idea/
 *.idea/
+test1.csv
+test1.csv/
+.test1/
+*.tests/
+*/test1.csv
